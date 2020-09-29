@@ -17,7 +17,7 @@ ________________________________________________________________________________
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
       
   ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(1).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_loss(1).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(1).svg)
    
   ## Нейросеть (2). Добавление полносвязного слоя 
   
@@ -33,8 +33,8 @@ ________________________________________________________________________________
         tf.keras.layers.Flatten(),
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
        
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_categorical_accuracy(2).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_loss(2).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(2).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(2).svg)
         
   ## Нейросеть (3). Увеличиваем размер сети (2)
   
@@ -52,8 +52,8 @@ ________________________________________________________________________________
         tf.keras.layers.Flatten(),
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
   
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_categorical_accuracy(3).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_loss(3).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(3).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(3).svg)
         
   ## Нейросеть (4). Увеличиваем число фильтров в свёрточных слоях сети (3) 
   
@@ -69,8 +69,8 @@ ________________________________________________________________________________
         tf.keras.layers.Flatten(),
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
       
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_categorical_accuracy(4).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_loss(4).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(4).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(4).svg)
    
   ## Нейросеть (5). Сеть (4) с изменённым lr
   
@@ -88,8 +88,8 @@ ________________________________________________________________________________
         tf.keras.layers.Flatten(),
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
       
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_categorical_accuracy(5).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_loss(5).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(5).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(5).svg)
    
   ## Нейросеть (6). Сеть (5) с измененным числом фильтров
   
@@ -105,8 +105,8 @@ ________________________________________________________________________________
         tf.keras.layers.Flatten(),
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
       
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_categorical_accuracy(6).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_loss(6).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(6).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(6).svg)
   
   ## Нейросеть (7).
   
@@ -122,8 +122,8 @@ ________________________________________________________________________________
         tf.keras.layers.Flatten(),
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
       
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_categorical_accuracy(7).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_loss(7).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(7).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(7).svg)
 
 
  ## Нейросеть (8).
@@ -140,5 +140,5 @@ ________________________________________________________________________________
         tf.keras.layers.Flatten(),
         tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.softmax)
       
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_categorical_accuracy(8).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/c1f799a972a9c163a57f346b8acd56906385da56/tensorboard/epoch_loss(8).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(8).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(8).svg)
